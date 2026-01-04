@@ -1,7 +1,7 @@
 <!-- ===================== HERO SECTION ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Amruthaa%20Tirumalasetty&fontAlign=50&fontAlignY=40&color=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Revanth Sai%20Sriram&fontAlign=50&fontAlignY=40&color=gradient" />
 
 ### AI Engineer · Full-Stack Developer · Product Thinker  
 **Ethical AI | Applied NLP | Computer Vision | Systems Thinking**
