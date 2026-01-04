@@ -92,7 +92,7 @@ I build **AI-powered, full-stack products** with a strong focus on **product thi
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Sriramrevanthsai&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriramrevanthsai&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ---
